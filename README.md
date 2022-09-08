@@ -1,4 +1,4 @@
-# Добро пожаловать на мой аккаунт sssffoott
+# Добро пожаловать на мой аккаунт sssffoott&#129488;
 
 ## Я владею язкыком ![](https://img.shields.io/badge/-Python-brightgreen)
 
